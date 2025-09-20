@@ -1,0 +1,16 @@
+h1{
+    font-size:40px;
+    text-align: center;
+    color: darkcyan;
+}
+p{
+    font-size: 20px;
+    color: darkgreen;
+}
+body{
+    background-color: mistyrose;
+}
+header{
+    text-align: center;
+    font-size: 30px;
+}
