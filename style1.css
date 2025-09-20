@@ -1,0 +1,27 @@
+header{
+    color: blue;
+    
+    text-align: center;
+    font-size:20px;
+}
+main{
+    text-align: center;
+    color: blue;
+}
+body{
+    background-color: cyan;
+}
+h1{
+    color: darkblue;
+    text-align: center;
+}
+footer p{
+    text-align: center;
+    color: blue;
+}
+img {
+    width:200px;
+    height:200px;
+    text-align: center;
+}
+    
